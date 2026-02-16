@@ -1,4 +1,4 @@
-package com.jpmc.midascore.component;
+package com.jpmc.midascore;
 
 import com.jpmc.midascore.foundation.Transaction;
 import org.springframework.kafka.annotation.KafkaListener;
